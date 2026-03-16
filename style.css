@@ -1,0 +1,24 @@
+body{
+    background-color: white;
+}
+
+.Hello{
+    width: 70vh;
+    border: 0.3vh solid black;
+    margin: 100px auto;   
+}
+
+.Hello img{
+    width: 100%;
+    display: block;
+}
+
+.button{
+    text-align: center;
+    font-size: 7vh;
+    background: linear-gradient(300deg,rgba(64, 214, 107, 1) 0%, rgba(253, 187, 45, 1) 100%);
+}
+.button a{
+    text-decoration: none;
+    color:white;
+}
